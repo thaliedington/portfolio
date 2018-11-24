@@ -1,0 +1,18 @@
+.logo {
+  display: flex;
+  align-items: center;
+  margin: 0 auto;
+}
+
+.title-name {
+  margin-top: 20px;
+}
+
+.title-name, .subtitle-ninja {
+  text-align: center;
+}
+
+p {
+  margin-top: 15px;
+  margin-bottom: 15px;
+}
