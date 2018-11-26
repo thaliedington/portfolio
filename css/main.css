@@ -5,14 +5,18 @@ body{
   margin-bottom: 30px;
 }
 
-.logo {
-  width: 90px;
-  margin-top: 10px;
-}
-
 #header {
   text-transform: uppercase;
   color: #2d3c49;
+}
+
+.img-fluid {
+  max-width: 100%;
+  height: auto;
+}
+
+.logo {
+  margin-top: 10px;
 }
 
 .title-name {
@@ -35,30 +39,22 @@ body{
 
 .title-featured {
   color: #7d97ad;
+  margin-top: 30px;
+  margin-bottom: 20px;
 }
 
 .name-project {
   text-transform: uppercase;
   color: #2d3c49;
   margin-bottom: 0;
+  margin-top: 10px;
 }
 
 #line {
   color: #7d97ad;
   background-color: #7d97ad;
   height: 2px;
-}
-
-.img-dog-smile {
-  width: 100%;
-  margin-top: 15px;
-  margin-bottom: 30px;
-}
-
-.img-dog-licking {
-  width: 100%;
-  margin-top: 10px;
-  margin-bottom: 10px;
+  margin-bottom: 20px;
 }
 
 .link {
